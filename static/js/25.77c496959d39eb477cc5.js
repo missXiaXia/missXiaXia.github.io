@@ -1,0 +1,1 @@
+webpackJsonp([25],{B9l8:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var l={render:function(){var e=this.$createElement;return(this._self._c||e)("div",{staticClass:"anchorManage"},[this._v("\n    主播管理\n")])},staticRenderFns:[]},r=t("C7Lr")(null,l,!1,null,null,null);n.default=r.exports}});
